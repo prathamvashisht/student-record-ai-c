@@ -1,0 +1,57 @@
+Sample output from the tested sample_input.txt
+
+Student record added successfully.
+Student record added successfully.
+Student record added successfully.
+Student record added successfully.
+Student record added successfully.
+
+AVERAGE CGPA BY ACADEMIC YEAR
+Year 1: 8.25
+Year 2: 6.20
+Year 3: 4.00
+Year 4: 8.00
+
+STUDENTS SORTED BY INCREASING SAP ID
+40001540 - Divya Rao
+40001542 - Bharat Kumar
+40001546 - Asha Sharma
+40001548 - Esha Verma
+40001550 - Chetan Singh
+
+STUDENTS SORTED IN ALPHABETICAL ORDER OF NAME
+Asha Sharma
+Bharat Kumar
+Chetan Singh
+Divya Rao
+Esha Verma
+
+CGPA of Chetan Singh: 6.20
+
+ACADEMIC ADVISOR
+Student: Asha Sharma
+CGPA: 9.00
+Category: Excellent Performance
+Recommendation: Maintain your current study pattern and continue developing advanced skills.
+
+ACADEMIC ADVISOR
+Student: Bharat Kumar
+CGPA: 7.50
+Category: Good Performance
+Recommendation: Continue your study routine and work toward improving your weaker subjects.
+
+ACADEMIC ADVISOR
+Student: Chetan Singh
+CGPA: 6.20
+Category: Needs Improvement
+Recommendation: Focus more on subjects with lower SGPA and follow a regular revision plan.
+
+ACADEMIC ADVISOR
+Student: Divya Rao
+CGPA: 4.00
+Category: Requires Immediate Attention
+Recommendation: Meet your faculty mentor, identify learning gaps and create an immediate improvement plan.
+
+Student record deleted successfully.
+Thank you for using the system.
+
