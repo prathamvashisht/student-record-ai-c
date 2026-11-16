@@ -1,3 +1,11 @@
+
+/*
+Name: Pratham vashisht
+SAP ID: 590032424
+Batch No.: 20
+Course: B.Tech CSE
+Project: AI-Assisted Student Record and Result Management System
+*/
 #include <ctype.h>
 #include <limits.h>
 #include <stdio.h>
